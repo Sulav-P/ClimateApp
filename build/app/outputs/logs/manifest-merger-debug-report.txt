@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5c4d5ca63cb87e9867dc3e68262cfaac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5c4d5ca63cb87e9867dc3e68262cfaac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7e3ee3ee951ff9b0b2c3ce32fee4caae\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7e3ee3ee951ff9b0b2c3ce32fee4caae\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.2.aar\62d11dd238ebd6a63914237d3ab1898f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.2.aar\62d11dd238ebd6a63914237d3ab1898f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\92494eb8a38ea26e59595c739324570d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\92494eb8a38ea26e59595c739324570d\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [:geolocator] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:location_permissions] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_availability] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\fe316f9c0beef3adb6ea3316a060bc0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5c4d5ca63cb87e9867dc3e68262cfaac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7e3ee3ee951ff9b0b2c3ce32fee4caae\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.2.aar\62d11dd238ebd6a63914237d3ab1898f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\c3a1188a1f78c3a0d9d1f1d7d9fd01ad\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\window-java-1.0.0-beta04.aar\fbd42b70cea7a673ef2a9421ed404ad2\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\c2a4c8d521c64da63fc39d7470f0cdfc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6abf1f388c9ed80912b243356e756ebe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\1e829de4f4e5cb5828dd59695bee2705\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5283604db073559229f1a44c24420fad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\fe95ec07ae7dabe898d62135829085de\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\65d4735152bc5b57fc2a0b2339cfc1d3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a743c99f31f0af4116266b6f9d179b55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\857682b8219d30f5b5c814fccc7d1980\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\tracing-1.0.0.aar\a5453bb8ba4eebdfbe4c5e5a657a37a4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\92494eb8a38ea26e59595c739324570d\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d86dcdb52f4c1332db435289c06ad3bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\cb0d4428a9f662df89413a9fbe112ca0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-annotation-experimental-1.1.0.aar\0b713884a23aaffe41214a41a4466fe6\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:3:5-81
+	android:name
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:3:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:geolocator] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:4:22-76
+meta-data#flutterEmbedding
+ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:35:5-67
+	android:value
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:35:48-65
+	android:name
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml:35:16-47
+uses-sdk
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] C:\Users\Sulav PC\Desktop\Projects\ClimateApp\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\fe316f9c0beef3adb6ea3316a060bc0e\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\multidex-2.0.0.aar\fe316f9c0beef3adb6ea3316a060bc0e\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5c4d5ca63cb87e9867dc3e68262cfaac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5c4d5ca63cb87e9867dc3e68262cfaac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7e3ee3ee951ff9b0b2c3ce32fee4caae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\7e3ee3ee951ff9b0b2c3ce32fee4caae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.2.aar\62d11dd238ebd6a63914237d3ab1898f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.2] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.2.aar\62d11dd238ebd6a63914237d3ab1898f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\c3a1188a1f78c3a0d9d1f1d7d9fd01ad\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\c3a1188a1f78c3a0d9d1f1d7d9fd01ad\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\window-java-1.0.0-beta04.aar\fbd42b70cea7a673ef2a9421ed404ad2\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\window-java-1.0.0-beta04.aar\fbd42b70cea7a673ef2a9421ed404ad2\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\c2a4c8d521c64da63fc39d7470f0cdfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\c2a4c8d521c64da63fc39d7470f0cdfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6abf1f388c9ed80912b243356e756ebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6abf1f388c9ed80912b243356e756ebe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\1e829de4f4e5cb5828dd59695bee2705\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\1e829de4f4e5cb5828dd59695bee2705\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5283604db073559229f1a44c24420fad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\5283604db073559229f1a44c24420fad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\97d1009bb619d8ab310f7f66b5c045e5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\fe95ec07ae7dabe898d62135829085de\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\fe95ec07ae7dabe898d62135829085de\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\65d4735152bc5b57fc2a0b2339cfc1d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\65d4735152bc5b57fc2a0b2339cfc1d3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a743c99f31f0af4116266b6f9d179b55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a743c99f31f0af4116266b6f9d179b55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\857682b8219d30f5b5c814fccc7d1980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\857682b8219d30f5b5c814fccc7d1980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\tracing-1.0.0.aar\a5453bb8ba4eebdfbe4c5e5a657a37a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\tracing-1.0.0.aar\a5453bb8ba4eebdfbe4c5e5a657a37a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\92494eb8a38ea26e59595c739324570d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.1.aar\92494eb8a38ea26e59595c739324570d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d86dcdb52f4c1332db435289c06ad3bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\d86dcdb52f4c1332db435289c06ad3bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\cb0d4428a9f662df89413a9fbe112ca0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\cb0d4428a9f662df89413a9fbe112ca0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-annotation-experimental-1.1.0.aar\0b713884a23aaffe41214a41a4466fe6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-annotation-experimental-1.1.0.aar\0b713884a23aaffe41214a41a4466fe6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Sulav PC\Desktop\Projects\ClimateApp\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\play-services-base-17.2.1.aar\f4e35400883e3458a30c99735c2e7a57\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.2.1] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.2.1.aar\f8b4fd4c44b92e6d53110dc4126c9b25\AndroidManifest.xml:24:13-58
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sulav PC\.gradle\caches\transforms-1\files-1.1\jetified-window-1.0.0-beta04.aar\e3483bb699801813ae053ea5973ca1cc\AndroidManifest.xml:29:13-51
